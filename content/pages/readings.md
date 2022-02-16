@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: e783300c-7523-8601-32cc-958037afa62c
 ---
@@ -334,7 +337,7 @@ Treyz, George I. _Regional Economic Modeling: A Systematic Approach to Economic 
 Use of regional models in policy analyses
 {{< tdclose >}}
 {{< tdopen >}}
-Kats, Greg, et al. "The Costs and Financial Benefits of Green Buildings: A Report to California's Sustainable Building Task Force." Washington, DC: Capital E, 2003. ([PDF - 3.1MB](http://www.usgbc.org/Docs/News/News477.pdf))
+Kats, Greg, et al. "The Costs and Financial Benefits of Green Buildings: A Report to California's Sustainable Building Task Force." Washington, DC: Capital E, 2003. ([PDF - 3.1MB](https://noharm-uscanada.org/documents/costs-and-financial-benefits-green-buildings-report-california%E2%80%99s-sustainable-building-task))
 {{< tdclose >}}
 {{< tdopen >}}
  
