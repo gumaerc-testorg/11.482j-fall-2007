@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 76e4417a-171e-c112-970c-1a1233c5dd4b
 resourcetype: Document
 title: Proposed Projects List
 uid: d0b39813-65bb-0176-c33c-35a4e77859e8

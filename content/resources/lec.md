@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Calendar
 parent_type: CourseSection
+parent_uid: 51ddb041-0a39-2963-552c-f5162b029263
 resourcetype: Document
 title: Analysis Tools to Assess Economic Impacts and Opportunities
 uid: 06236e13-b229-3a44-128a-95ba3d894307
