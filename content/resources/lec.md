@@ -4,6 +4,7 @@ description: Lecture slides on regional socioeconomic impact analyses and modeli
 file: /courses/11-482j-regional-socioeconomic-impact-analyses-and-modeling-fall-2007/06236e13b2293a44128a95ba3d894307_lec.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Calendar
 parent_type: CourseSection
@@ -13,4 +14,3 @@ title: Analysis Tools to Assess Economic Impacts and Opportunities
 uid: 06236e13-b229-3a44-128a-95ba3d894307
 ---
 Lecture slides on regional socioeconomic impact analyses and modeling.
-

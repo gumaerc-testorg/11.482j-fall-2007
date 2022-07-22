@@ -7,6 +7,7 @@ file: /courses/11-482j-regional-socioeconomic-impact-analyses-and-modeling-fall-
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Problem Set 3
 uid: 574c76a1-73af-969c-fe90-37d5a6a5cc71
 ---
 Problem set on the socioeconomic impact on the New Market area of the intervention(s) you decide should be taken and how they may or may not relate to the green initiative.
-

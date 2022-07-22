@@ -6,6 +6,7 @@ file: /courses/11-482j-regional-socioeconomic-impact-analyses-and-modeling-fall-
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Proposed Projects List
 uid: d0b39813-65bb-0176-c33c-35a4e77859e8
 ---
 A list of proposed projects on regional socioeconomic impact analyses and modeling.
-
