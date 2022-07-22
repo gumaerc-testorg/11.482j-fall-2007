@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This calendar section provides the schedule of lecture topics and key
+  dates for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 51ddb041-0a39-2963-552c-f5162b029263
 ---
@@ -63,7 +67,7 @@ Problem set 1, part I, due three days after Ses #3
 {{< tdopen >}}
 
 
-Alternative types of regional input-output models and multipliers ([PDF]({{< baseurl >}}/resources/lec))
+Alternative types of regional input-output models and multipliers ({{% resource_link 06236e13-b229-3a44-128a-95ba3d894307 "PDF" %}})
 
 Guest speaker: Glen Weisbrod, President, Economic development research group
 
