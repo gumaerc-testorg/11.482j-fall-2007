@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture slides on regional socioeconomic impact analyses and modeling.
-file: /courses/11-482j-regional-socioeconomic-impact-analyses-and-modeling-fall-2007/06236e13b2293a44128a95ba3d894307_lec.pdf
+file: /ol-ocw-studio-app/courses/11-482j-regional-socioeconomic-impact-analyses-and-modeling-fall-2007/06236e13b2293a44128a95ba3d894307_lec.pdf
 file_size: 313795
 file_type: application/pdf
 learning_resource_types: []
