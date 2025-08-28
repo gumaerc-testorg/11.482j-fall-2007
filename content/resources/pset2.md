@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set on socioeconomic-impact analysis of the Boston economy.
-file: /courses/11-482j-regional-socioeconomic-impact-analyses-and-modeling-fall-2007/4e0a470d4dfd196ea123d10bc2c1ab58_pset2.pdf
+file: /ol-ocw-studio-app/courses/11-482j-regional-socioeconomic-impact-analyses-and-modeling-fall-2007/4e0a470d4dfd196ea123d10bc2c1ab58_pset2.pdf
 file_size: 65954
 file_type: application/pdf
 learning_resource_types:
